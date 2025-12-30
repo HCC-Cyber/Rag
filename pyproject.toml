@@ -1,0 +1,14 @@
+[project]
+name = "proj"
+version = "0.1.0"
+dependencies = [
+    "zhipuai>=2.0.0",
+    "chromadb",
+    "sniffio",
+    "anyio",
+    "httpx"
+]
+
+[[index]]
+url="https://pypi.tuna.tsinghua.edu.cn/simple"
+default=true

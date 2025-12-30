@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Chroma database
+chroma.db/
+
+# Environment and secrets
+env_api_key.txt
+.env
+*.env
+
+# Other common Python files
+.pytest_cache/
+.coverage
+htmlcov/
+.eggs/
+dist/
+build/
+*.egg-info/
+.vscode/
+.idea/
