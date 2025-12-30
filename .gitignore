@@ -16,6 +16,9 @@ env_api_key.txt
 .env
 *.env
 
+# uv lock file
+uv.lock
+
 # Other common Python files
 .pytest_cache/
 .coverage
